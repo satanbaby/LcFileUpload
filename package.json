@@ -1,0 +1,10 @@
+{
+  "name": "73qnf2--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "vue": "3.3.13",
+    "@progress/kendo-upload-vue-wrapper": "2024.2.514",
+    "@progress/kendo-ui": "2024.2.514"
+  }
+}
